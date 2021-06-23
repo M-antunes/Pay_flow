@@ -8,12 +8,13 @@ class SplashPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: AppColors.background,
-        body: Stack(
-          children: [
-            Center(child: Image.asset(AppImages.union)),
-            Center(child: Image.asset(AppImages.logoFull)),
-          ],
-        ));
+      backgroundColor: AppColors.background,
+      body: Stack(
+        children: [
+          Center(child: Image.asset(AppImages.union)),
+          Center(child: Image.asset(AppImages.logoFull)),
+        ],
+      ),
+    );
   }
 }
