@@ -1,16 +1,23 @@
-# payflow
+# Pay Flow
 
-A new Flutter project.
+### This is a project to simulate an app to handle the users bills. It reads the bar codes using the phone's camera and organizes the bill on screen.  
 
-## Getting Started
+### (Developed for studying purposes only)
 
-This project is a starting point for a Flutter application.
+### 0.1 - This is the Splash page:
+<img src="https://github.com/M-antunes/Pay_flow/blob/master/payflow_pics/splash_page.png" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 0.2 - This is the Log in page. Users will start the app by loging in with their Google account:
+<img src="https://github.com/M-antunes/Pay_flow/blob/master/payflow_pics/login.png" height="400">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 0.3 - This is the home page:
+<img src="https://github.com/M-antunes/Pay_flow/blob/master/payflow_pics/home.png" height="400">
+
+### 0.4 - This is the scanner page page:
+<img src="https://github.com/M-antunes/Pay_flow/blob/master/payflow_pics/scanner.png" height="400">
+
+### 0.5 - This is the page that withholdes the added bills:
+<img src="https://github.com/M-antunes/Pay_flow/blob/master/payflow_pics/bills.png" height="400">
+
